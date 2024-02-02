@@ -7,4 +7,5 @@ youtube: InnovateWithMe
 figma: @innovatewithme
 
 ‎‎‎‎
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4cce4f04-3ffd-461b-bdda-899183fa875f/deploy-status)](https://app.netlify.com/sites/tourmaline-bonbon-c09954/deploys) 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4cce4f04-3ffd-461b-bdda-899183fa875f/deploy-status)](https://app.netlify.com/sites/login-puxje/deploys)
+
