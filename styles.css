@@ -1,0 +1,124 @@
+html,
+body {
+  font-family: "Istok Web", sans-serif;
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  margin: 20px auto;
+}
+
+#bg {
+  width: 555px;
+  height: 832px;
+  border-radius: 20px;
+}
+
+.login-box {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 61px;
+}
+
+h1 {
+  font-size: 36px;
+  color: #567281;
+}
+
+span {
+  font-size: 64px;
+  color: #7a999c;
+}
+
+.btn {
+  display: flex;
+  flex-direction: row;
+  margin-top: 37px;
+}
+
+.btn button {
+  width: 130px;
+  height: 52px;
+  display: flex;
+  margin-left: 38px;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: none;
+  font-size: 30px;
+  font-weight: bold;
+  color: #5f7c8d;
+  opacity: 39%;
+  margin-bottom: 50px;
+}
+
+.btn button.clicked {
+  color: #5f7c8d;
+  opacity: 100%;
+  cursor: pointer;
+  border-bottom: 3px solid #5f7c8d;
+}
+
+input {
+  width: 400px;
+  height: 52px;
+  padding: 0 20px;
+  font-size: 24px;
+  border: none;
+  border-bottom: 3px solid #5f7c8d;
+  border-radius: 0px;
+  outline: none;
+  opacity: 55px;
+}
+
+.input-box {
+  display: flex;
+  flex-direction: column;
+  gap: 72px;
+}
+
+#submit-btn {
+  width: 100%;
+  margin-top: 37px;
+  height: 52px;
+  background: #4b687a;
+  border: none;
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+  cursor: pointer;
+  margin-bottom: 15px;
+}
+.password-box {
+  position: relative;
+  display: inline-block;
+}
+
+#eye-icon {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 10px;
+  cursor: pointer;
+}
+
+#password {
+  padding-right: 30px;
+}
+
+p {
+  font-size: 24px;
+  color: #5f7c8d;
+  display: block;
+  margin: 0 auto;
+  opacity: 55%;
+}
+
+.social-media {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  margin-top: 20px;
+  align-items: center;
+  justify-content: center;
+}
